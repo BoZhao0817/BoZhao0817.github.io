@@ -1,33 +1,33 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `bo zhao`,
+    name: `Bo Zhao`,
+    siteUrl: `https://bozhao.me`,
+    description: `bo zhao's personal website`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `If you’re looking for good Front-End Developer,  you’ve come to the right place`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/Iris23845483`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/BoZhao0817`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://www.instagram.com/bobobo.z/`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/bo-zhao-189ab1186/`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://dribbble.com/Mia0817`,
       },
     ],
   },
